@@ -1,3 +1,9 @@
+/*
+  Autor: Patrick Carriello
+  Projeto: Projeto Jarvis
+  Detalhes do projeto: https://www.youtube.com/watch?v=L3ky2-lCL8s&list=PLDZLfLztiVAkoGCS805bjnNVWhHrbzk_M
+*/
+
 // Pinos
 // Fase 1 da energia elétrica
 #define FASE1 2
